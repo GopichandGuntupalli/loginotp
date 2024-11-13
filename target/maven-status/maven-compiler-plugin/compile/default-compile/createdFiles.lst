@@ -1,0 +1,5 @@
+com\generate\otp\loginotp\LoginotpApplication.class
+com\generate\otp\loginotp\controller\AuthController.class
+com\generate\otp\loginotp\req\OtpRequest.class
+com\generate\otp\loginotp\req\OtpVerificationRequest.class
+com\generate\otp\loginotp\service\OtpService.class
